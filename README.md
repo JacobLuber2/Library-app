@@ -15,7 +15,7 @@
 -**add more styling**
 -**add an update books method**
 
-Technologies used:
+## Technologies used:
 -**HTML**
 -**CSS**
 -**JavaScript**
@@ -27,7 +27,8 @@ Technologies used:
 
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/yourusername/library-app.git
-2. Alternatively, visit the live version of the app at samplelink
+   git clone git clone https://github.com/JacobLuber2/Library-app.git
+2. Alternatively, visit the live version of the app at [Library Project](https://jacobluber2.github.io/Library-app/)
+3. Video demonstration at [Google Drive](https://drive.google.com/drive/folders/1WPtrEO1JeMeknNhpuNRsf7SndHTUCeuy)
 
 
