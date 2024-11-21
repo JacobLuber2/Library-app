@@ -1,0 +1,23 @@
+/* html element selectors */
+.text-input {
+display: block;
+}
+input[type="text"] {
+margin-bottom: 30px;
+}
+#Submit-Books-Btn {
+margin: 20px 0;
+display: block;
+}
+li {
+list-style: none;
+} 
+/* dom element selectors */
+.Secondary, span, label[for="Secondary-Read"], input[name="Secondary-Read"] {
+padding: 0 4px;
+}
+/* for dark mode */
+button {
+background-color: inherit;
+color: inherit;
+}

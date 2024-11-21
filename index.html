@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Library</title>
+    <link rel="stylesheet" href="index.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main>
+        <h1>Library</h1>
+        <button id="toggle">Toggle Dark/Light Mode</button>
+        <form id="form">
+            <label for="title" class="text-input">title</label>
+            <input type="text" name="title" id="title" required />
+
+            <label for="author" class="text-input">Author</label>
+            <input type="text" name="author" id="author" required />
+            <section>
+            <label for="primary-read">Read:</label>
+            <input type="checkbox" name="primary-read" id="primary-read">
+            <button type="submit">Add book</button>
+            </section>
+        </form>
+        <hr />
+          <ul id="all-books">
+            <!-- book list from dom -->
+          </ul>
+      </main>
+  </body>
+</html>
